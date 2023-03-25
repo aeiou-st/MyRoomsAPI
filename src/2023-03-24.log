@@ -1,0 +1,30 @@
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mFri Mar 24 2023 22:15:16 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "User create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 14,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "123456",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T04:15:16.052Z",[0m
+[97m		"createdAt": "2023-03-25T04:15:16.052Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m11.577 ms 

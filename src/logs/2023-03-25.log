@@ -1,0 +1,1642 @@
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:03 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m10.704 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:04 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m8.035 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:04 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.125 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:05 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.382 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:19 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m36.798 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:20 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.770 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:20 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.033 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:21 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.061 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:21 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.355 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:30 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.484 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:02:54 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m11.471 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 00:03:26 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m38.550 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:03:32 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.943 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:04:36 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m15.485 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:04:59 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m41.275 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:05:00 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.940 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:05:00 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.341 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:05:12 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m35.512 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:05:13 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.427 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 00:05:51 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m11.150 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 00:06:01 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 19,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal7@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$U1WkbVf4CUM6JezJ0DG0yO3zlbe1hkMX3R5zYE62zxH.ioEoslF7.",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T06:06:01.867Z",[0m
+[97m		"createdAt": "2023-03-25T06:06:01.867Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m256.806 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:06:35 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m36.077 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:06:35 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.646 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:06:36 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.377 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:06:36 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.232 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:09:22 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m13.328 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:10:31 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": "vishal7@mailinator.com"[0m
+[97m}[0m
+[96mResponse: [32m200 [37m257.062 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:10:33 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": "vishal7@mailinator.com"[0m
+[97m}[0m
+[96mResponse: [32m200 [37m246.072 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:10:53 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "12345"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m253.819 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:10:56 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": "vishal7@mailinator.com"[0m
+[97m}[0m
+[96mResponse: [32m200 [37m246.573 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:55:47 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "login fail",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m254.700 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:56:27 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "login fail",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m260.969 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 00:58:40 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"userDetails": {[0m
+[97m			"id": 19,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$U1WkbVf4CUM6JezJ0DG0yO3zlbe1hkMX3R5zYE62zxH.ioEoslF7.",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T06:06:01.867Z",[0m
+[97m			"updatedAt": "2023-03-25T06:06:01.867Z"[0m
+[97m		},[0m
+[97m		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZpc2hhbDdAbWFpbGluYXRvci5jb20iLCJwYXNzd29yZCI6IjEyMzQ1NiIsImlhdCI6MTY3OTcyNzUyMCwiZXhwIjoxNjc5ODEzOTIwfQ.wc6kei22rZdRlN8npEveGTvKcL9qnsDKvMgL9ut5mvw"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m258.188 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 01:03:05 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"userDetails": {[0m
+[97m			"id": 19,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$U1WkbVf4CUM6JezJ0DG0yO3zlbe1hkMX3R5zYE62zxH.ioEoslF7.",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T06:06:01.867Z",[0m
+[97m			"updatedAt": "2023-03-25T06:06:01.867Z"[0m
+[97m		},[0m
+[97m		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZpc2hhbDdAbWFpbGluYXRvci5jb20iLCJwYXNzd29yZCI6IjEyMzQ1NiIsImlhdCI6MTY3OTcyNzc4NSwiZXhwIjoxNjc5ODE0MTg1fQ.E0auetp_eJD6u0IzT5vJb51o0p8zfsXBVwi_9U6epW4"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m258.482 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 01:03:16 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal74@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "Email does not exsting",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m32.013 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 01:03:20 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"userDetails": {[0m
+[97m			"id": 19,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$U1WkbVf4CUM6JezJ0DG0yO3zlbe1hkMX3R5zYE62zxH.ioEoslF7.",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T06:06:01.867Z",[0m
+[97m			"updatedAt": "2023-03-25T06:06:01.867Z"[0m
+[97m		},[0m
+[97m		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZpc2hhbDdAbWFpbGluYXRvci5jb20iLCJwYXNzd29yZCI6IjEyMzQ1NiIsImlhdCI6MTY3OTcyNzgwMCwiZXhwIjoxNjc5ODE0MjAwfQ.2pChimDn-0KuvsWwYa1AH45TvOPU70eJFxtDVFlecJg"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m251.608 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 01:03:23 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456hj"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m244.239 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 01:03:28 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"userDetails": {[0m
+[97m			"id": 19,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$U1WkbVf4CUM6JezJ0DG0yO3zlbe1hkMX3R5zYE62zxH.ioEoslF7.",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T06:06:01.867Z",[0m
+[97m			"updatedAt": "2023-03-25T06:06:01.867Z"[0m
+[97m		},[0m
+[97m		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZpc2hhbDdAbWFpbGluYXRvci5jb20iLCJwYXNzd29yZCI6IjEyMzQ1NiIsImlhdCI6MTY3OTcyNzgwOCwiZXhwIjoxNjc5ODE0MjA4fQ.M0AGeKr34ddxinwYK5bWPrwXDJdSO8FYMxlW4KcLvmk"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m269.306 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 01:10:09 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 1,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal7@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$anhQN/ceFOdrRZ3JueN1ru/w0q9wtxlcZy1T76HG.UwwwAX6GAQ2W",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m		"createdAt": "2023-03-25T07:10:09.225Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m294.194 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 01:10:11 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.292 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 01:55:23 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[96mResponse: [33m404 [37m1.912 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:08:39 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m8.350 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:14:42 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m9.982 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:14:42 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.723 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:42:31 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m36.370 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:42:34 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.418 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:53:47 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m23.791 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:53:48 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.118 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 02:53:53 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 1,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal7@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$iffsm8f.JSR.kl60NHyov.Ey5O7sPyOO/1kGZIU6z7w3jQBaPYfAm",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T08:53:53.145Z",[0m
+[97m		"createdAt": "2023-03-25T08:53:53.145Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m255.301 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 02:53:55 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$iffsm8f.JSR.kl60NHyov.Ey5O7sPyOO/1kGZIU6z7w3jQBaPYfAm",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T08:53:53.145Z",[0m
+[97m			"updatedAt": "2023-03-25T08:53:53.145Z"[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m1.744 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:10:42 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 1,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal7@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$25KRJyrf2HpfwuYCoAi9lOKsgtvO80NdofGxbLqm/m4Gp2OvXJD5W",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T09:10:42.187Z",[0m
+[97m		"createdAt": "2023-03-25T09:10:42.187Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m278.073 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:19:58 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 1,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal7@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T09:19:58.222Z",[0m
+[97m		"createdAt": "2023-03-25T09:19:58.222Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m265.688 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:22:45 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"updatedAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"role": {[0m
+[97m				"id": 1,[0m
+[97m				"role_name": "As Owner",[0m
+[97m				"status": "active",[0m
+[97m				"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m				"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m			}[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m14.156 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:34:29 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"updatedAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"role": {[0m
+[97m				"id": 1,[0m
+[97m				"role_name": "As Owner",[0m
+[97m				"status": "active",[0m
+[97m				"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m				"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m			}[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m13.791 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:37:12 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"updatedAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"role": {[0m
+[97m				"id": 1,[0m
+[97m				"role_name": "As Owner",[0m
+[97m				"status": "active",[0m
+[97m				"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m				"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m			}[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m13.647 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:38:16 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal7@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m			"role_id": "0",[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"updatedAt": "2023-03-25T09:19:58.222Z",[0m
+[97m			"role": {[0m
+[97m				"id": 1,[0m
+[97m				"role_name": "As Owner",[0m
+[97m				"status": "active",[0m
+[97m				"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m				"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m			}[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m14.534 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:42:54 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal7@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m					"role_id": "0",[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m					"updatedAt": "2023-03-25T09:19:58.222Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m13.869 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:43:45 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal7@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 0,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m34.311 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:43:51 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 0,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 2,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal1@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$vkRvbrGg7kdyeyGHmfy7yOqhc/m1FkeBDE3Mr41Vl6zVkCY80yrs2",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T09:43:51.793Z",[0m
+[97m		"createdAt": "2023-03-25T09:43:51.793Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m253.057 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:43:55 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal7@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m					"role_id": "0",[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m					"updatedAt": "2023-03-25T09:19:58.222Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m5.874 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:43:56 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal7@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m					"role_id": "0",[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m					"updatedAt": "2023-03-25T09:19:58.222Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.899 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:44:03 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal7@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m					"role_id": "0",[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m					"updatedAt": "2023-03-25T09:19:58.222Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m4.700 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:44:04 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal7@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m					"role_id": "0",[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m					"updatedAt": "2023-03-25T09:19:58.222Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.493 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:44:05 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal7@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$cgi/k6evBKToqE2PyyNWwOAIE7RBE5ghEUTr8ie6Vx7/tkmqJk/ci",[0m
+[97m					"role_id": "0",[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:19:58.222Z",[0m
+[97m					"updatedAt": "2023-03-25T09:19:58.222Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.470 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:47:17 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 0,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 1,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal1@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$QTf44l9//zracJlbW/eXlehzjK0.3C2McT0JCIl.Plp9QoKHacaUO",[0m
+[97m		"role_id": 0,[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T09:47:17.531Z",[0m
+[97m		"createdAt": "2023-03-25T09:47:17.531Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m271.101 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:47:21 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal1@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$QTf44l9//zracJlbW/eXlehzjK0.3C2McT0JCIl.Plp9QoKHacaUO",[0m
+[97m					"role_id": 0,[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:47:17.531Z",[0m
+[97m					"updatedAt": "2023-03-25T09:47:17.531Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [][0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m8.366 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:47:36 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal1@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 1,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m32.225 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 03:47:41 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 1,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 2,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal2@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$P6VSqZifY0w0jfG49G6rUuIACmNgPPo8oJppffbZSbLNumQIUgjTW",[0m
+[97m		"role_id": 1,[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T09:47:41.984Z",[0m
+[97m		"createdAt": "2023-03-25T09:47:41.984Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m248.502 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:47:45 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 1,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal1@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$QTf44l9//zracJlbW/eXlehzjK0.3C2McT0JCIl.Plp9QoKHacaUO",[0m
+[97m					"role_id": 0,[0m
+[97m					"latitudes": "22.215500",[0m
+[97m					"longitudes": "29.999999",[0m
+[97m					"createdAt": "2023-03-25T09:47:17.531Z",[0m
+[97m					"updatedAt": "2023-03-25T09:47:17.531Z"[0m
+[97m				}[0m
+[97m			][0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"users": [[0m
+[97m				{[0m
+[97m					"id": 2,[0m
+[97m					"full_name": "vishal sharma",[0m
+[97m					"email": "vishal2@mailinator.com",[0m
+[97m					"phone_number": "9106005308",[0m
+[97m					"password": "$2b$12$P6VSqZifY0w0jfG49G6rUu[0m
+[97m...[0m
+[96mResponse: [32m200 [37m5.696 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 03:54:12 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [[0m
+[97m		{[0m
+[97m			"id": 0,[0m
+[97m			"role_name": "As Customer",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		},[0m
+[97m		{[0m
+[97m			"id": 1,[0m
+[97m			"role_name": "As Owner",[0m
+[97m			"status": "active",[0m
+[97m			"createdAt": "2023-03-25T07:10:09.225Z",[0m
+[97m			"updatedAt": "2023-03-25T07:10:09.225Z"[0m
+[97m		}[0m
+[97m	][0m
+[97m}[0m
+[96mResponse: [32m200 [37m79.675 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 04:04:39 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 1,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 1,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal2@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$12$.IGUFv9ej0f3PeEruwHil.6EUyk.k9Aoregu3eW.PYFQZK8lP8nGu",[0m
+[97m		"role_id": 1,[0m
+[97m		"latitudes": "22.2155",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T10:04:39.274Z",[0m
+[97m		"createdAt": "2023-03-25T10:04:39.274Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m265.782 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 04:04:48 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 1,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.678 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mSat Mar 25 2023 04:04:49 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": 1,[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m3.210 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 04:05:14 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"password": "12345"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m244.929 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 04:05:21 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal@mailinator.com",[0m
+[97m	"password": "12345"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "Email does not exsting",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m2.843 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 04:05:25 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"password": "12345"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "password does not match",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m248.412 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/login [90mat [37mSat Mar 25 2023 04:05:28 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"email": "vishal2@mailinator.com",[0m
+[97m	"password": "123456"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "login sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"userDetails": {[0m
+[97m			"id": 1,[0m
+[97m			"full_name": "vishal sharma",[0m
+[97m			"email": "vishal2@mailinator.com",[0m
+[97m			"phone_number": "9106005308",[0m
+[97m			"password": "$2b$12$.IGUFv9ej0f3PeEruwHil.6EUyk.k9Aoregu3eW.PYFQZK8lP8nGu",[0m
+[97m			"role_id": 1,[0m
+[97m			"latitudes": "22.215500",[0m
+[97m			"longitudes": "29.999999",[0m
+[97m			"createdAt": "2023-03-25T10:04:39.000Z",[0m
+[97m			"updatedAt": "2023-03-25T10:04:39.000Z"[0m
+[97m		},[0m
+[97m		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZpc2hhbDJAbWFpbGluYXRvci5jb20iLCJwYXNzd29yZCI6IjEyMzQ1NiIsImlhdCI6MTY3OTczODcyOCwiZXhwIjoxNjc5ODI1MTI4fQ.HzlTRXCAXd5XTY9Xddcck1f0Zr6DGchbjtMzkVTNuis"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m249.950 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 04:05:53 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m5.439 ms 
+
+[96mRequest: [93mGET [97m/api/v1/user/get_role [90mat [37mSat Mar 25 2023 04:05:56 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "Get All User Role",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m1.910 ms 

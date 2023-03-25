@@ -1,0 +1,1328 @@
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:17:30 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "User create sucessfully",
+	"ResponceData": {
+		"id": 15,
+		"full_name": "vishal sharma",
+		"email": "vishal@mailinator.com",
+		"phone_number": "9106005308",
+		"password": "123456",
+		"role_id": "0",
+		"latitudes": "22.215500",
+		"longitudes": "29.999999",
+		"updatedAt": "2023-03-25T04:17:30.615Z",
+		"createdAt": "2023-03-25T04:17:30.615Z"
+	}
+}
+Response: 200 43.860 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:36:47 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 10.887 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:36:48 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.422 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:39:58 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "1234567",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 42.099 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:39:59 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "1234567",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 3.186 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:04 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "1234567",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "Both password don't match",
+	"ResponceData": []
+}
+Response: 200 2.005 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:05 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "1234567",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "Both password don't match",
+	"ResponceData": []
+}
+Response: 200 1.605 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:06 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "1234567",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "Both password don't match",
+	"ResponceData": []
+}
+Response: 200 2.387 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:06 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "1234567",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "Both password don't match",
+	"ResponceData": []
+}
+Response: 200 1.489 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:14 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "Both password don't match",
+	"ResponceData": []
+}
+Response: 200 1.727 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:15 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "Both password don't match",
+	"ResponceData": []
+}
+Response: 200 2.945 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:40:19 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.154 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:45:54 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 12.672 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:45:56 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.284 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:45:57 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.925 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:46:01 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0
+}
+Response: 200 1.829 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:46:02 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0
+}
+Response: 200 1.664 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:46:36 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0
+}
+Response: 200 12.525 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:48:51 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0
+}
+Response: 200 13.888 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:49:21 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "hello"
+}
+Response: 200 12.385 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:50:12 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match"
+}
+Response: 200 11.190 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:50:13 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match"
+}
+Response: 200 2.867 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:50:13 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match"
+}
+Response: 200 2.732 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:50:14 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match"
+}
+Response: 200 2.176 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:50:29 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 12.711 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:50:30 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 7.771 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:52:39 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 11.095 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:54:17 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 12.390 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 22:54:18 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 3.115 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:12:41 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 10.540 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:12:42 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.920 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:12:42 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.046 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:12:43 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.033 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:12:43 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.097 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:13:19 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 9.280 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:13:22 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 2.268 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:13:33 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 12.195 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:13:35 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 2.844 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:13:35 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_passwor": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "both password dont match",
+	"ResponceData": []
+}
+Response: 200 2.938 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:13:57 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "user create sucessfully",
+	"ResponceData": {
+		"id": 16,
+		"full_name": "vishal sharma",
+		"email": "vishal1@mailinator.com",
+		"phone_number": "9106005308",
+		"password": "123456",
+		"role_id": "0",
+		"latitudes": "22.215500",
+		"longitudes": "29.999999",
+		"updatedAt": "2023-03-25T05:13:57.807Z",
+		"createdAt": "2023-03-25T05:13:57.807Z"
+	}
+}
+Response: 200 18.514 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:14:00 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal1@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 3.879 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:14:08 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal3@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "user create sucessfully",
+	"ResponceData": {
+		"id": 17,
+		"full_name": "vishal sharma",
+		"email": "vishal3@mailinator.com",
+		"phone_number": "9106005308",
+		"password": "123456",
+		"role_id": "0",
+		"latitudes": "22.215500",
+		"longitudes": "29.999999",
+		"updatedAt": "2023-03-25T05:14:08.791Z",
+		"createdAt": "2023-03-25T05:14:08.791Z"
+	}
+}
+Response: 200 5.644 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:14:27 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal3@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 20.879 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:14:47 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal3@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 9.784 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:14:48 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal3@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.907 ms 
+
+Request: POST /api/v1/user/create_user at Fri Mar 24 2023 23:14:49 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"full_name": "vishal sharma",
+	"email": "vishal3@mailinator.com",
+	"phone_number": "9106005308",
+	"password": "123456",
+	"confirm_password": "123456",
+	"role_id": "0",
+	"latitudes": "22.2155",
+	"longitudes": "29.999999"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "This mail already register",
+	"ResponceData": []
+}
+Response: 200 2.128 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:34:21 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 2.440 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:35:14 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 0.770 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:35:15 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 0.721 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:35:30 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 0.343 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:35:33 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 0.736 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:40:58 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 16.071 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:41:16 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal15@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 32.811 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:42:19 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal15@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "Email does not exsting",
+	"ResponceData": []
+}
+Response: 200 11.771 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:42:19 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal15@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "Email does not exsting",
+	"ResponceData": []
+}
+Response: 200 2.762 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:44:15 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal15@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "Email does not exsting",
+	"ResponceData": []
+}
+Response: 200 10.240 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:44:18 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 6.407 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:45:53 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 9.954 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:45:54 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "login fail",
+	"ResponceData": []
+}
+Response: 200 2.388 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:14 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 12.554 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:15 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 5.133 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:24 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal15@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "Email does not exsting",
+	"ResponceData": []
+}
+Response: 200 2.864 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:29 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 2.541 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:30 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 1.867 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:33 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 2.271 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:34 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 1.901 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:35 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 2.578 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:35 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 1.999 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:37 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 2.013 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:39 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 1.853 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:46:42 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response: 500 1.853 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:47:25 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "password does not match",
+	"ResponceData": []
+}
+Response: 200 10.106 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:47:26 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "1234564"
+}
+Response Body:
+{
+	"ResponceCode": 1,
+	"ResponceMessage": "password does not match",
+	"ResponceData": []
+}
+Response: 200 2.557 ms 
+
+Request: POST /api/v1/user/login at Fri Mar 24 2023 23:47:29 GMT-0600, IP: ::1, User Agent: PostmanRuntime/7.31.1
+Request Body:
+{
+	"email": "vishal1@mailinator.com",
+	"password": "123456"
+}
+Response Body:
+{
+	"ResponceCode": 0,
+	"ResponceMessage": "login sucessfully",
+	"ResponceData": "vishal1@mailinator.com"
+}
+Response: 200 5.000 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mFri Mar 24 2023 23:52:12 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal3@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 1,[0m
+[97m	"ResponceMessage": "This mail already register",[0m
+[97m	"ResponceData": [][0m
+[97m}[0m
+[96mResponse: [32m200 [37m10.297 ms 
+
+[96mRequest: [93mPOST [97m/api/v1/user/create_user [90mat [37mFri Mar 24 2023 23:52:17 GMT-0600, [90mIP: [37m::1[0m, [90mUser Agent: PostmanRuntime/7.31.1[0m
+[95mRequest Body:[0m
+[97m{[0m
+[97m	"full_name": "vishal sharma",[0m
+[97m	"email": "vishal4@mailinator.com",[0m
+[97m	"phone_number": "9106005308",[0m
+[97m	"password": "123456",[0m
+[97m	"confirm_password": "123456",[0m
+[97m	"role_id": "0",[0m
+[97m	"latitudes": "22.2155",[0m
+[97m	"longitudes": "29.999999"[0m
+[97m}[0m
+[95mResponse Body:[0m
+[97m{[0m
+[97m	"ResponceCode": 0,[0m
+[97m	"ResponceMessage": "user create sucessfully",[0m
+[97m	"ResponceData": {[0m
+[97m		"id": 18,[0m
+[97m		"full_name": "vishal sharma",[0m
+[97m		"email": "vishal4@mailinator.com",[0m
+[97m		"phone_number": "9106005308",[0m
+[97m		"password": "$2b$10$Y6FPcSx4tZdVTOnj1dG/auwWglj8sh639L61mtWlcw2O9zlgQpy2u",[0m
+[97m		"role_id": "0",[0m
+[97m		"latitudes": "22.215500",[0m
+[97m		"longitudes": "29.999999",[0m
+[97m		"updatedAt": "2023-03-25T05:52:17.392Z",[0m
+[97m		"createdAt": "2023-03-25T05:52:17.392Z"[0m
+[97m	}[0m
+[97m}[0m
+[96mResponse: [32m200 [37m75.519 ms 
