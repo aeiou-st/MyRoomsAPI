@@ -24,15 +24,24 @@ Connection.authenticate()
 
 import { User } from "../moduals/User/model/User";
 import { Role } from "../moduals/User/model/Role";
+import { RoomType } from "../moduals/room/model/RoomType";
+import { RoomDetails } from "../moduals/room/model/RoomDetails";
 
 //model connetions
 
 User.init(Connection);
 Role.init(Connection);
+RoomType.init(Connection);
+RoomDetails.init(Connection)
 
 User.associate(Role)
 
 User.hasOne(Role, {foreignKey: "id"});
 Role.hasMany(User,{foreignKey:"role_id"})
+
+RoomDetails.hasMany(User, { foreignKey: 'id', sourceKey: 'user_id' })
+User.hasMany(RoomDetails, { foreignKey: 'user_id', sourceKey: 'id' })
+
+RoomType.hasMany(RoomDetails, { foreignKey: 'room_type_id', sourceKey: "id" })
 
 export default Connection;
