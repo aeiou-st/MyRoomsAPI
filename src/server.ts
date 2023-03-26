@@ -8,6 +8,10 @@ const config = require('../src/config/config.ts')
 
 const app:Express = express()
 app.use(express.json())
+app.use(express.static("public"));
+app.use("/public/roomtypeimage", express.static("public/roomtypeimage"));
+app.use("/public/coverimage", express.static("public/coverimage"));
+
 
 
 const log = fs.createWriteStream(
