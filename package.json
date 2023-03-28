@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "start": "nodemon src/server.ts"
   },
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
