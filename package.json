@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "start": "node index.js"
+
   },
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
